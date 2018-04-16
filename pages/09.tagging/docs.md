@@ -53,7 +53,7 @@ Tagging can also be used in multi-value select boxes. In the example below, we s
   <option>white</option>
   <option selected="selected">purple</option>
 </select>
-```
+
 
 <script type="text/javascript">
 
@@ -62,7 +62,7 @@ $(".js-example-tags").select2({
 });
 
 </script>
-
+```
 Try entering a value that isn't listed in the dropdown - you'll be able to add it as a new option!
 
 ## Automatic tokenization into tags
